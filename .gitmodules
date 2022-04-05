@@ -1,18 +1,18 @@
 [submodule "kartons/karton-classifier"]
 	path = kartons/karton-classifier
-	url = https://github.com:W3ndige/karton-classifier
+	url = https://github.com/W3ndige/karton-classifier
 [submodule "kartons/karton-minhash"]
 	path = kartons/karton-minhash
-	url = https://github.com:W3ndige/karton-minhash
+	url = https://github.com/W3ndige/karton-minhash
 [submodule "kartons/karton-similarity"]
 	path = kartons/karton-similarity
-	url = https://github.com:W3ndige/karton-similarity
+	url = https://github.com/W3ndige/karton-similarity
 [submodule "kartons/karton-r2disasm"]
 	path = kartons/karton-r2disasm
-	url = https://github.com:W3ndige/karton-r2disasm
+	url = https://github.com/W3ndige/karton-r2disasm
 [submodule "kartons/karton-strings-extractor"]
 	path = kartons/karton-strings-extractor
-	url = https://github.com:W3ndige/karton-strings-extractor
+	url = https://github.com/W3ndige/karton-strings-extractor
 [submodule "kartons/karton-strings-scanner"]
 	path = kartons/karton-strings-scanner
-	url = https://github.com:W3ndige/karton-strings-scanner
+	url = https://github.com/W3ndige/karton-strings-scanner
